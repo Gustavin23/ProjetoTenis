@@ -16,6 +16,8 @@ header {
 h1 {
   text-align: left;
   font-family: "Helvetica";
+  height: 200px;
+  width: 50px;
 }
 nav {
   background-color: black;
