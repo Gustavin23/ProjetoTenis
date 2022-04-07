@@ -133,3 +133,22 @@ h3 {
   color: #1c1c1c;
   margin: 2px;
 }
+
+/* --------- Fim da CSS Home --------- */
+/* --------- Inicio da Css da Sobre --------- */
+#imgsobre {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+
+#sobre p {
+  width: 70%;
+  font-family: helvetica;
+  font-size: 12pt;
+  line-height: 18pt;
+  text-align: justify;
+  margin-left: auto;
+  margin-right: auto;
+}
